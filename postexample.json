@@ -1,27 +1,52 @@
 [
     {
-        "title": "AMC Stock Price: AMC Entertainment opens 2% lower on Thursday",
-        "url": "https://www.fxstreet.com/amp/news/amc-stock-price-amc-entertainment-down-over-1-ahead-of-thursday-open-202203171304",
-        "image": "https://editorial.fxstreet.com/images/Resources/financial-analysis-55314688_XtraSmall.jpg"
+        "url": "https://qa.fxstreet.com/news/post-translations-test-202203170756",
+        "title": "post translations test",
+        "imageUrl": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/EURUSD/money-for-the-table-with-figures-gm118451521-10951870_XtraSmall.jpg"
     },
     {
-        "title": "Gold Price Forecast: XAUUSD consolidating gains around $1,940.00",
-        "url": "https://www.fxstreet.com/amp/news/gold-price-forecast-xau-usd-rebound-fades-near-1-930-as-ukraine-russia-peace-talks-dwindle-202203170014",
-        "image": "https://editorial.fxstreet.com/images/Resources/financial-analysis-55314688_XtraSmall.jpg"
+        "url": "https://qa.fxstreet.com/news/gbp-usd-price-analysis-finds-bids-at-13000-limited-downside-ahead-202203152221",
+        "title": "GBP/USD Price Analysis: Finds bids at 1.3000, limited downside ahead",
+        "imageUrl": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/GBPUSD/iStock-1088749732_XtraSmall.jpg"
     },
     {
-        "title": "AUD/USD clings to gains near weekly top, just below mid-0.7300s",
-        "url": "https://www.fxstreet.com/amp/news/aud-usd-clings-to-gains-near-weekly-top-just-below-mid-07300s-202203171325",
-        "image": "https://editorial.fxstreet.com/images/Resources/financial-analysis-55314688_XtraSmall.jpg"
+        "url": "https://qa.fxstreet.com/news/aud-usd-bears-need-to-commit-around-072-the-figure-202203152205",
+        "title": "AUD/USD bears need to commit around 0.72 the figure",
+        "imageUrl": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/AUDUSD/money-growth-6235270_XtraSmall.jpg"
     },
     {
-        "title": "Pound Sterling Price News and Forecast: GBP/USD now targets the 1.3220 region",
-        "url": "https://www.fxstreet.com/amp/news/pound-sterling-price-news-and-forecast-gbp-usd-now-targets-the-13220-region-202203171321",
-        "image": "https://editorial.fxstreet.com/images/Resources/financial-analysis-55314688_XtraSmall.jpg"
+        "url": "https://qa.fxstreet.com/news/pound-sterling-price-news-and-forecast-gbp-usd-bulls-are-supporting-the-price-in-key-weekly-demand-area-202203152150",
+        "title": "Pound Sterling Price News and Forecast: GBP/USD bulls are supporting the price in key weekly demand area",
+        "imageUrl": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/GBPUSD/uk-bonknotes-and-one-pound-coins-19664403_XtraSmall.jpg"
     },
     {
-        "title": "EUR/GBP surges to 0.8430s, eyes weekly/monthly highs above 0.8450 after dovish BoE hike",
-        "url": "https://www.fxstreet.com/amp/news/eur-gbp-surges-to-08430s-eyes-weekly-monthly-highs-above-08450-after-dovish-boe-hike-202203171315",
-        "image": "https://editorial.fxstreet.com/images/Resources/financial-analysis-55314688_XtraSmall.jpg"
+        "url": "https://qa.fxstreet.com/news/gold-price-analysis-xau-usd-bulls-have-vanished-and-leave-critical-daily-support-vulnerable-202203151918",
+        "title": "Gold Price Forecast: XAU/USD at make or break near $1,915, Fed policy eyed",
+        "imageUrl": "https://editorial.fxstreet.com/images/Markets/Commodities/Metals/Gold/stacked-gold-bars-13094022_XtraSmall.jpg"
+    },
+    {
+        "url": "https://qa.fxstreet.com/news/usd-jpy-price-analysis-bears-looking-for-a-long-squeeze-to-test-11800-10-area-202203152107",
+        "title": "USD/JPY Price Analysis: Bears looking for a long squeeze to test 118.00/10 area",
+        "imageUrl": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/USDJPY/japanese-yen-bills-money-from-japan-63035511_XtraSmall.jpg"
+    },
+    {
+        "url": "https://qa.fxstreet.com/news/silver-price-forecast-xag-usd-bounces-at-the-786-fibo-and-clings-to-the-2480s-area-202203152020",
+        "title": "Silver Price Forecast: XAG/USD bounces at the 78.6% Fibo and clings to the $24.80s area",
+        "imageUrl": "https://editorial.fxstreet.com/images/Markets/Commodities/Metals/Silver/silver-bars-13972410_XtraSmall.jpg"
+    },
+    {
+        "url": "https://qa.fxstreet.com/news/amc-entertainment-stock-news-and-forecast-amc-makes-significant-investment-in-gold-miner-hycroft-202203151301",
+        "title": "AMC Entertainment Stock News and Forecast: AMC sustainable bounce?",
+        "imageUrl": "https://editorial.fxstreet.com/images/Markets/Equities/Industries/Media/AMC/AMC_stock_teather_building_XtraSmall.jpg"
+    },
+    {
+        "url": "https://qa.fxstreet.com/news/ukraine-and-russian-talks-to-continue-wednesday-there-is-room-for-compromise-202203152003",
+        "title": "Ukraine and Russian talks to continue Wednesday, there is room for compromise.",
+        "imageUrl": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Europe/Ukraine/Ukraine_Flag_Map_XtraSmall.jpg"
+    },
+    {
+        "url": "https://qa.fxstreet.com/news/forex-today-dollar-up-ahead-of-fed-and-as-fear-rules-202203151929",
+        "title": "Forex Today: Dollar up ahead of Fed and as fear rules",
+        "imageUrl": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/EURUSD/euro-coins-gm520443967-49899402_XtraSmall.jpg"
     }
 ]
